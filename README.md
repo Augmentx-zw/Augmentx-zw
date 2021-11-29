@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 
+
+<p>
+  <a href="https://www.linkedin.com/in/vafanat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/augmentx_zw" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://vafanat@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Augmentx-zw)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augmentx-zw)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Augmentx-zw)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **Augmentx-zw/Augmentx-zw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
